@@ -1,4 +1,4 @@
 interface:
   display_name: "一页纸"
-  short_description: "给 AI 的一页纸汇报：结果优先，少写过程，明确验证与下一步"
-  default_prompt: "用 $one-page 汇报：第一句说结果，只写影响判断的验证和未确认项；需要我行动或决定时再列下一步。"
+  short_description: "给人看的 AI 汇报：按场景用可扫读的 Markdown 样式，先给答案再摆关系"
+  default_prompt: "用 $one-page 把结果整理给我看：选对应的 Markdown 成稿样式，先回答我最关心的问题，再摆出依据、限制和需要我做的事。"
