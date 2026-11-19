@@ -32,4 +32,15 @@ git clone --depth 1 --branch v0.2.0 https://github.com/reasonss1/one-page.git "$
 
 每一步的「怎么测」和「通过判据」在同一行。这是测试计划，不是通过报告。
 
+## 你可以拿它做什么？
+
+| 如果你想…… | 可以拿到…… |
+|---|---|
+| 理清一堆想法或待办 | [取舍清单](references/cards/foundations.md)：先列候选，再按目的筛选 |
+| 让别人看懂汇报或旧资料 | [一页总览](references/cards/documents.md)：先给结论，再交代依据与待确认项 |
+| 开会时不跑题，散会后能接着做 | [会议工作页](references/cards/meetings.md)：候选、已定、未定和下一步 |
+| 安排工作、准备协商或反馈 | [计划与沟通页](references/cards/work.md)：标出负荷、固定期限和可商量的事项 |
+| 定目标或做复盘 | [目标与复盘页](references/cards/goals.md)：说明取舍，再选一个能试的动作 |
+| 把读到的东西用起来 | [学习与记录页](references/cards/learning.md)：区分材料、个人判断和动手试验 |
+
 [查看 27 个场景样式](references/playbook.md) · [纯文本示例](assets/layouts/plain-text.txt) · [Markdown 模板](assets/one-page-template.md)

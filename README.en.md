@@ -32,4 +32,15 @@ Use $one-page for progress updates and results meant for people. Lead with the a
 
 Each step sits next to its pass criteria. The screenshot shows what to check, not which tests passed.
 
+## What can you use it for?
+
+| If you want to… | You get… |
+|---|---|
+| Sort through ideas or to-dos | [A shortlist](references/cards/foundations.md): lay out the options, then filter them by what you want to achieve. |
+| Make a report or an old document easier to follow | [A one-page overview](references/cards/documents.md): lead with the conclusion, then show what supports it and what still needs checking. |
+| Keep a meeting on track and follow through afterward | [A meeting worksheet](references/cards/meetings.md): separate options, decisions, open questions, and next steps. |
+| Plan work or prepare for a negotiation or feedback conversation | [A planning and conversation sheet](references/cards/work.md): mark the workload, fixed deadlines, and what’s negotiable. |
+| Set a goal or review how things went | [A goal and review sheet](references/cards/goals.md): explain the trade-offs and choose one action to try. |
+| Put what you read into practice | [A learning log](references/cards/learning.md): distinguish what the source says, what you think, and what you’ll try. |
+
 [27 scenario layouts](references/playbook.md) · [Plain-text examples](assets/layouts/plain-text.txt) · [Markdown template](assets/one-page-template.md) (all in Chinese)
