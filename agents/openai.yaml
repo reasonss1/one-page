@@ -1,0 +1,4 @@
+interface:
+  display_name: "一页纸"
+  short_description: "通用工作、学习和生活的一页纸工作法，内含 27 张可选场景卡"
+  default_prompt: "用 $one-page 按我的目标选择一个玩法，先弄清这页给谁、用完要决定或做什么。"
